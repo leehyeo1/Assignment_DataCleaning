@@ -25,12 +25,12 @@ Variable        |Description
 ----------------|------------------------------------------------
 subject         |each number representing differnet subjects
 activity        |six different activities performed
-                |       1. Walking
-                |       2. Walking_upstairs
-                |       3. Walking_downstairs
-                |       4. Sitting
-                |       5. Standing
-                |       6. Laying
+                |1. Walking
+                |2. Walking_upstairs
+                |3. Walking_downstairs
+                |4. Sitting
+                |5. Standing
+                |6. Laying
 .mean           |mean value
 .std            |standard deviation
 .meanFreq       |weighted average of the frequency components to obtain a mean frequency
