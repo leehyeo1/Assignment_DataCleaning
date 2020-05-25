@@ -1,9 +1,9 @@
 # Code book
 
 
-## Introduction
+> Introduction
 
-        This document is about a final project of 'Getting and Cleaning Data' of Data Science program.  This code book contains information about the experiment conducted, the variables of used in data, and how I collect and reshape the data. 
+####        This document is about a final project of 'Getting and Cleaning Data' of Data Science program.  This code book contains information about the experiment conducted, the variables of used in data, and how I collect and reshape the data. 
         
 ## About the experiment where the data collected from
  
