@@ -7,7 +7,7 @@
         
 > About the experiment where the data collected from
  
-        The data is about records of human activity recognized by waist-mounted smartphone(Samsun Galaxy S2).  The experiment was carried with 30 subjects, and recorded activity is categorized into six.  According to provided information, collected data was divieded into two sets, they are saved under names of 'test' and 'train' 
+####        The data is about records of human activity recognized by waist-mounted smartphone(Samsun Galaxy S2).  The experiment was carried with 30 subjects, and recorded activity is categorized into six.  According to provided information, collected data was divieded into two sets, they are saved under names of 'test' and 'train' 
         
 > Study design
  
