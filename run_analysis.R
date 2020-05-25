@@ -86,4 +86,4 @@ mergedAll$activity <- factor(mergedAll$activity)
 newTidyDt <- aggregate(.~ subject + activity, data = mergedAll, FUN = mean)
 newTidyDt <- arrange(newTidyDt, subject, activity)
         # Third step: according to the principle of tidy data, another data set should be saved in different file
-write.table(newTidyDt, file = "./data/avgTidyDt.txt")
+write.table(newTidyDt, file = "./data/avgTidyDt.txt", row.names = FALSE)
